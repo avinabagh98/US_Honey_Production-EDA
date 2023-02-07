@@ -8,7 +8,7 @@ Explporatory data analysis on "Honey Production" data in US from the year 1998 t
 - Get the [dataset here](https://github.com/avinabagh98/US_Honey_Production-EDA/blob/66fbc4963f445d44990cb4e432af162564ebdcf8/honeyproduction%201998-2021.csv)
 - The dataset is having 986 rows and 8 columns. It has size of 49.9 KB
 
-## :large_orange_diamond: Background of Dataset
+## :joy: Background of Dataset
 In 2006, global concern was raised over the rapid decline in the honeybee
 population, an integral component of American honey agriculture. Large
 numbers of hives were lost to Colony Collapse Disorder, a phenomenon of
