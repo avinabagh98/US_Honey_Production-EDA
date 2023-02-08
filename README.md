@@ -36,7 +36,7 @@ unit is dollars.
 
 ## Insights from Data
 In this data, there is no missing value spotted. So lets talk about the data.
-The data is all about honey production, supply and demand in United States from 1998 to 2021. Over the year the procduction goes down and down.
+The data is all about honey production, supply and demand in United States from 1998 to 2021. Over the year the production goes down and down.
 The **all time best production** happened in the year **2000**. The total production in 2000 is of **219,558,000 pounds**.<br>
 <p align ="center">
 <img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/1.png">
