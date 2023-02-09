@@ -41,3 +41,27 @@ The **all time best production** happened in the year **2000**. The total produc
 <p align ="center">
 <img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/1.png">
 </p>
+
+In this dataset we have 44 states. Their production trends shows that **North Dakota** has the heighest production from the year span of 1998 to 2021.
+Production wise Top  10 cities are as follows - 
+- North Dakota    (797,000,000 pounds)
+- California      (457,195,000 pounds)
+- South Dakota    (417,516,000 pounds)
+- Florida         (343,697,000 pounds)
+- Montana         (265,742,000 pounds)
+- Minnesota       (210,530,000 pounds)
+- Texas           (177,325,000 pounds)
+- Michigan        (116,067,000 pounds)
+- Wisconsin       (106,716,000 pounds)
+- Idaho            (95,207,000 pounds)
+
+<p align ="center">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/2.png">
+</p>
+
+
+
+
+
+
+
