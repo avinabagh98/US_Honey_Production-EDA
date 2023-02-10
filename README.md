@@ -59,7 +59,56 @@ Production wise Top  10 cities are as follows -
 <img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/2.png">
 </p>
 
+But take a peak at the production per year wise. It shows that, for the year 1998 the heighest production happened in the California, but soon after North Dakota
+takes the place and stand there for year and year and year. Also read [North Dakota leads nation in honey production for 15th year](https://apnews.com/article/5749289cc5ee41cf83c5e8a59825e3ac)
 
+<p align ="center">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3a.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3b.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3c.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3d.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3e.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3f.png">
+</p>
+
+Here we can see the data of every other year. And as seen in the charts, second place by production, the states "California" and "South Dakota" are giving tough
+fight to each other.
+
+<p align ="center">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3g.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3h.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3i.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3j.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3k.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3l.png">
+</p>
+
+
+### But Why North Dakota?
+Well ! as per internet, North Dakota's climate is just right. It's conducive to flowers' production of nectar, which bees use to make honey. “Warm days and cool nights 
+are optimal for nectar secretion for a number of plants that honeybees visit.
+
+In 2006, large and mysterious losses of honey bee colonies led entomologists to classify a set of diagnostic symptoms as Colony Collapse Disorder (CCD) and spurred major efforts to measure, quantify, and understand pollinator loss.
+
+Before 2006 trend look like this -
+<p align="center">
+<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/4.png">
+</p>
+
+Honey production colonies are going less and less in number, so downward trend created towards 2006.
+
+<p align="center">
+<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/5.png">
+</p>
+
+And after 2006, though the colony number grows up but the production goes down.<br>
+The total honey production per year goes down i.e. the honey production is decreasing.
+As the production is decreasing, the cost of production is increasing year by year.
+
+<p align="center">
+<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/6.png">
+</p>
+Heighest cost of production comes in the year 2014 and the lowest is in 1999.
 
 
 
