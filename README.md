@@ -39,7 +39,7 @@ In this data, there is no missing value spotted. So lets talk about the data.
 The data is all about honey production, supply and demand in United States from 1998 to 2021. Over the year the production goes down and down.
 The **all time best production** happened in the year **2000**. The total production in 2000 is of **219,558,000 pounds**.<br>
 <p align ="center">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/1.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/1.png"/>
 </p>
 
 In this dataset we have 44 states. Their production trends shows that **North Dakota** has the highest production from the year span of 1998 to 2021.
@@ -56,31 +56,31 @@ Production wise Top  10 cities are as follows -
 - Idaho            (95,207,000 pounds)
 
 <p align ="center">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/2.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/2.png"/>
 </p>
 
 But take a peak at the production per year wise. It shows that, for the year 1998 the highest production happened in the California, but soon after North Dakota
 takes the place and stand there for year and year and year. Also read [North Dakota leads nation in honey production for 15th year](https://apnews.com/article/5749289cc5ee41cf83c5e8a59825e3ac)
 
 <p align ="center">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3a.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3b.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3c.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3d.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3e.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3f.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3a.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3b.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3c.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3d.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3e.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3f.png"/>
 </p>
 
 Here we can see the data of every other year. And as seen in the charts, second place by production, the states "California" and "South Dakota" are giving tough
 fight to each other.
 
 <p align ="center">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3g.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3h.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3i.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3j.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3k.png">
-<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3l.png">
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3g.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3h.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3i.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3j.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3k.png"/>
+<img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/3l.png"/>
 </p>
 
 
@@ -92,13 +92,13 @@ In 2006, large and mysterious losses of honey bee colonies led entomologists to 
 
 Before 2006 trend look like this -
 <p align="center">
-<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/4.png">
+<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/4.png"/>
 </p>
 
 Honey production colonies are going less and less in number, so downward trend created towards 2006.
 
 <p align="center">
-<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/5.png">
+<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/5.png"/>
 </p>
 
 And after 2006, though the colony number grows up but the production goes down.<br>
@@ -107,7 +107,7 @@ As the production is decreasing, the cost of production is increasing year by ye
 Read also [Demand for honey reaches all-time high, says USDA](https://www.snackandbakery.com/articles/99265-demand-for-honey-reaches-all-time-high-says-usda#:~:text=The%20growth%20in%20demand%2C%20in,honey%20being%20a%20healthy%20sweetener.)
 
 <p align="center">
-<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/6a.png">
+<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/6a.png"/>
 </p>
 Highest cost of production comes in the year 2014 and the lowest is in 1999 (From the chart). 
 
