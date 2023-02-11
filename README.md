@@ -42,7 +42,7 @@ The **all time best production** happened in the year **2000**. The total produc
 <img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/1.png">
 </p>
 
-In this dataset we have 44 states. Their production trends shows that **North Dakota** has the heighest production from the year span of 1998 to 2021.
+In this dataset we have 44 states. Their production trends shows that **North Dakota** has the highest production from the year span of 1998 to 2021.
 Production wise Top  10 cities are as follows - 
 - North Dakota    (797,000,000 pounds)
 - California      (457,195,000 pounds)
@@ -59,7 +59,7 @@ Production wise Top  10 cities are as follows -
 <img src = "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/2.png">
 </p>
 
-But take a peak at the production per year wise. It shows that, for the year 1998 the heighest production happened in the California, but soon after North Dakota
+But take a peak at the production per year wise. It shows that, for the year 1998 the highest production happened in the California, but soon after North Dakota
 takes the place and stand there for year and year and year. Also read [North Dakota leads nation in honey production for 15th year](https://apnews.com/article/5749289cc5ee41cf83c5e8a59825e3ac)
 
 <p align ="center">
@@ -103,12 +103,14 @@ Honey production colonies are going less and less in number, so downward trend c
 
 And after 2006, though the colony number grows up but the production goes down.<br>
 The total honey production per year goes down i.e. the honey production is decreasing.
-As the production is decreasing, the cost of production is increasing year by year.
+As the production is decreasing, the cost of production is increasing year by year, cause the demand is growing due to the growing population.
+Read also [Demand for honey reaches all-time high, says USDA](https://www.snackandbakery.com/articles/99265-demand-for-honey-reaches-all-time-high-says-usda#:~:text=The%20growth%20in%20demand%2C%20in,honey%20being%20a%20healthy%20sweetener.)
 
 <p align="center">
-<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/6.png">
+<img src= "https://github.com/avinabagh98/US_Honey_Production-EDA/blob/main/6a.png">
 </p>
-Heighest cost of production comes in the year 2014 and the lowest is in 1999.
+Highest cost of production comes in the year 2014 and the lowest is in 1999 (From the chart). 
+
 
 
 
